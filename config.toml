@@ -1,4 +1,4 @@
-baseURL = 'http://ggtruss.github.io/Blog/'
+baseURL = 'https://ggtruss.github.io/Blog/'
 languageCode = 'en-us'
 title = 'Christian Trussler'
 theme= "hpstr"
