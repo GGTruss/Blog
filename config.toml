@@ -1,3 +1,18 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://christiantrussler.ca/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Christian Trussler'
+theme= "hpstr"
+pluralizelisttitles = false
+PygmentsCodeFences = true
+Paginate = 5
+
+
+[params]
+	subtitle = "Creativity and Innovation"
+	[params.author]
+		name = "Christian Trussler"
+		avatar = "/images/avatar.jpg"
+		bio = "Christian Trussler is a Content Creator"
+		email = "christiantrussler@hotmail.com"
+	[params.image]
+	  feature = "/images/homepage-1.png"
