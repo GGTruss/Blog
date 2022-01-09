@@ -12,7 +12,7 @@ Paginate = 5
 	[params.author]
 		name = "Christian Trussler"
 		avatar = "/images/avatar.jpg"
-		bio = "Christian Trussler is a Content Creator"
+		bio = "Christian Trussler is a Content Creator and Writer."
 		email = "christiantrussler@hotmail.com"
 	[params.image]
 	  feature = "/images/homepage-1.png"
