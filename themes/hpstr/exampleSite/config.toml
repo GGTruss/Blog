@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://ggtruss.github.io/Blog/"
 languageCode = "en-gb"
 title = "HPSTR"
 theme = "hpstr"
