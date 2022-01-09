@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'Christian Trussler'
 theme= "hpstr"
 pluralizelisttitles = false
-PygmentsCodeFences = true
 Paginate = 5
 
 

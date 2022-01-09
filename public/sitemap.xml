@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ggtruss.github.io/portfolio/</loc>
+    <lastmod>2022-01-09T03:14:57-05:00</lastmod>
+  </url><url>
+    <loc>https://ggtruss.github.io/about/</loc>
+  </url><url>
+    <loc>https://ggtruss.github.io/blog/</loc>
+    <lastmod>2022-01-08T18:03:13-05:00</lastmod>
+  </url><url>
+    <loc>https://ggtruss.github.io/</loc>
+    <lastmod>2022-01-08T18:03:13-05:00</lastmod>
+  </url><url>
+    <loc>https://ggtruss.github.io/blog/first-blog/</loc>
+    <lastmod>2022-01-08T18:03:13-05:00</lastmod>
+  </url><url>
+    <loc>https://ggtruss.github.io/tags/journaling/</loc>
+    <lastmod>2022-01-08T18:03:13-05:00</lastmod>
+  </url><url>
+    <loc>https://ggtruss.github.io/tags/</loc>
+    <lastmod>2022-01-08T18:03:13-05:00</lastmod>
+  </url><url>
+    <loc>https://ggtruss.github.io/categories/</loc>
+  </url>
+</urlset>

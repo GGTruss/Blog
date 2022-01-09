@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Christian Trussler</title>
+    <link>https://ggtruss.github.io/blog/</link>
+    <description>Recent content in Blog on Christian Trussler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jan 2022 18:03:13 -0500</lastBuildDate><atom:link href="https://ggtruss.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fresh Starts</title>
+      <link>https://ggtruss.github.io/blog/first-blog/</link>
+      <pubDate>Sat, 08 Jan 2022 18:03:13 -0500</pubDate>
+      
+      <guid>https://ggtruss.github.io/blog/first-blog/</guid>
+      <description>Another year has passed and here we are again! Unless you&amp;rsquo;re a baby&amp;hellip; then happy first new year! You must be a genius to be reading before you&amp;rsquo;re even one.
+This year I plan to make a lot of changes in my daily schedule. Writing these posts is one of them and I welcome you all to join me on my journey of learning and adventure!
+What are some things you plan on in the new year?</description>
+    </item>
+    
+  </channel>
+</rss>
