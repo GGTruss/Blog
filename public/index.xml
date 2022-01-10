@@ -2,38 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christian Trussler</title>
-    <link>https://ggtruss.github.io/</link>
+    <link>https://christiantrussler.ca/</link>
     <description>Recent content on Christian Trussler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jan 2022 18:03:13 -0500</lastBuildDate><atom:link href="https://ggtruss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 18:03:13 -0500</lastBuildDate><atom:link href="https://christiantrussler.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portfolio</title>
-      <link>https://ggtruss.github.io/portfolio/</link>
+      <link>https://christiantrussler.ca/portfolio/</link>
       <pubDate>Sun, 09 Jan 2022 03:14:57 -0500</pubDate>
       
-      <guid>https://ggtruss.github.io/portfolio/</guid>
+      <guid>https://christiantrussler.ca/portfolio/</guid>
       <description>Welcome to my Portfolio. Below you will find years of Creative and Technical work proudly accomplished by me.</description>
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>https://ggtruss.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ggtruss.github.io/about/</guid>
-      <description>Welcome to my About page!</description>
-    </item>
-    
-    <item>
       <title>Fresh Starts</title>
-      <link>https://ggtruss.github.io/blog/first-blog/</link>
+      <link>https://christiantrussler.ca/blog/first-blog/</link>
       <pubDate>Sat, 08 Jan 2022 18:03:13 -0500</pubDate>
       
-      <guid>https://ggtruss.github.io/blog/first-blog/</guid>
+      <guid>https://christiantrussler.ca/blog/first-blog/</guid>
       <description>Another year has passed and here we are again! Unless you&amp;rsquo;re a baby&amp;hellip; then happy first new year! You must be a genius to be reading before you&amp;rsquo;re even one.
 This year I plan to make a lot of changes in my daily schedule. Writing these posts is one of them and I welcome you all to join me on my journey of learning and adventure!
 What are some things you plan on in the new year?</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://christiantrussler.ca/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://christiantrussler.ca/about/</guid>
+      <description>Christian Trussler has been passionately producing content since the age of seven.
+ With an ever-expanding roster of skills and talents including Copywrite, Design, and Editing, he is ready to tackle any project.   Stay up to date with my current projects right here or check out my socials below to have the latest updates and content sent directly to your brain.</description>
     </item>
     
   </channel>
