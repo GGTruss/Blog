@@ -15,3 +15,9 @@ Paginate = 5
 		email = "christiantrussler@hotmail.com"
 	[params.image]
 	  feature = "/images/homepage-1.png"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
